@@ -1,0 +1,76 @@
+{
+    "name" : "dogs",   
+    "contributor" : "Fred Bloggs", 
+    "access" : "private", 
+    "baseurl" : "https://marknowell.github.io/picagram-cats/VintageToys/",
+
+    "thumbnail" : "barbie_35.jpeg",
+    "agerating" : 12,  
+    "segments" : 4,   
+    "pics" : [     
+        { 
+            "word" : "Barbie",
+            "url" : "barbie_35.jpg"
+        },
+        {
+            "word" : "Beach Ball",
+            "url" : "beach_ball_11.jpg"
+        },
+        {
+            "word" : "Chemistry Set",
+            "url" : "chem_set_1923_01.jpg"
+        },
+        {
+            "word" : "Fingerpaint",
+            "url" : "fingerpaint_07.jpg"
+        },
+         {
+             "word" : "Frisbee",
+             "url" : "frisbee_33.jpg"
+         },
+         {
+             "word" : "Hula Hoop",
+             "url" : "hula_hoopa.jpg"
+         },
+         {
+             "word" : "Lego",
+             "url" : "legos_19.jpg"
+         },
+         {
+             "word" : "Matchbox Car",
+             "url" : "matchbox_28.jpg"
+         },
+         {
+             "word" : "Play-Doh",
+             "url" : "play_doh_alt.jpg"
+         },
+         {
+             "word" : "Pogo Stick",
+             "url" : "pogo_stick_34.jpg"
+         },
+         {
+             "word" : "Potato Head",
+             "url" : "potato_head_alt.jpg"
+         },
+         {
+             "word" : "Slinky",
+             "url" : "slinky_17.jpg"
+         },
+         {
+             "word" : "Sock Monkey",
+             "url" : "sock_monkey_08.jpg"
+         },
+         {
+             "word" : "Tonka Truck",
+             "url" : 	"tonka_truck_32.jpg"
+         },
+         {
+             "word" : 	"Viewmaster",
+             "url" : 	"viewmaster_alt.jpg"
+         },
+         {
+             "word" : 	"Yo-Yo",
+             "url" : 	"yo-yo_04.jpg"
+         }
+    ]
+}
