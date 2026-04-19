@@ -6,7 +6,7 @@
 
     "thumbnail" : "beagle.webp",
     "agerating" : 12,  
-    "segments" : 6,   
+    "segments" : 4,   
     "pics" : [     
         { 
             "word" : "Poodle",
