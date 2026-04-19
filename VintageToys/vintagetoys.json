@@ -3,8 +3,7 @@
     "contributor" : "Fred Bloggs", 
     "access" : "public", 
     "baseurl" : "https://marknowell.github.io/picagram-cats/VintageToys/",
-
-    "thumbnail" : "barbie_35.jpeg",
+    "thumbnail" : "barbie_35.jpg",
     "agerating" : 12,  
     "segments" : 4,   
     "pics" : [     
