@@ -1,7 +1,7 @@
 {
-    "name" : "dogs",   
+    "name" : "vintage toys",   
     "contributor" : "Fred Bloggs", 
-    "access" : "private", 
+    "access" : "public", 
     "baseurl" : "https://marknowell.github.io/picagram-cats/VintageToys/",
 
     "thumbnail" : "barbie_35.jpeg",
