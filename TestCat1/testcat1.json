@@ -2,31 +2,31 @@
     "name" : "dogs",   
     "contributor" : "Fred Bloggs", 
     "access" : "private", 
-    "baseurl" : "https://github.com/MarkNowell/picagram/tree/main/testdata/TestCat1/",
+    "baseurl" : "https://marknowell.github.io/picagram-cats/TestCat1/",
 
-    "thumbnail" : "beagle.avif",
+    "thumbnail" : "beagle.webp",
     "agerating" : 12,  
     "segments" : 4,   
     "pics" : [     
         { 
             "word" : "Poodle",
-            "url" : "poodle.avif"
+            "url" : "poodle.webp"
         },
         {
             "word" : "Beagle",
-            "url" : "beagle.avif"
+            "url" : "beagle.webp"
         },
         {
             "word" : "Bulldog",
-            "url" : "bulldog.avif"
+            "url" : "bulldog.webp"
         },
         {
             "word" : "Dachshund",
-            "url" : "dachshund.avif"
+            "url" : "dachshund.webp"
         },
         {
             "word" : "Boxer",
-            "url" : "boxer.avif"
+            "url" : "boxer.webp"
         }
 
     ]
